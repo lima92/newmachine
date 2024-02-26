@@ -3,7 +3,9 @@
 "Vim.vim",
 "7zip.7zip",
 "Greenshot.Greenshot",
-"JetBrains.Rider", 
+"JetBrains.Toolbox",
+"JetBrains.Rider",
+"JetBrains.IntelliJIDEA.Ultimate",
 "Spotify.Spotify",
 "SlackTechnologies.Slack", 
 "Docker.DockerDesktop",
@@ -11,10 +13,13 @@
 "VivaldiTechnologies.Vivaldi",
 "Microsoft.WindowsTerminal"
 "Microsoft.DotNet.SDK.7",
+"Microsoft.DotNet.SDK.8",
 "Microsoft.VisualstudioCode", 
 "Microsoft.AzureDataStudio",
 "Microsoft.AzureCLI",
-"Microsoft.NuGet"
+"Microsoft.NuGet",
+"JanDeDobbeleer.OhMyPosh",
+"9NMPJ99VJBWV" # Windows Phone Link
 )
 
 $totalApps = $apps.Count
